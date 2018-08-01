@@ -1,4 +1,4 @@
-UX/ UI WORKSHOP Task
+﻿UX/ UI WORKSHOP Task
 
 Basic requirements:
 Find an app in the Play Store / App store with an average rating  below 3.5 stars. Check it and draw it’s UX design by using paper first, then use one of the below tools to draw UX design:
@@ -16,3 +16,5 @@ Think of how can you improve the app in terms of colors, layout, images, content
  
 Advanced requirements:
 Convert your pictures to real front end page using HTML & CSS etc.
+
+previons website http://www.historianofthefuture.com/index.html
